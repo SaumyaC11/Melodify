@@ -1,5 +1,5 @@
 # Melodify - Music Similarity through Embedding and Metadata
-
+### This is project work for CS483 - Big Data Mining
 ## Overview
 Melodify is a music recommendation system designed to address the cold start problem and provide recommendations for less popular artists. The system integrates data from the Last.fm API and the Million Song Dataset Subset to generate comprehensive insights and enhance music discovery.
 
